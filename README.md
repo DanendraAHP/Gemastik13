@@ -1,4 +1,4 @@
-# Gemastik13
+# Gemastik13/Twitter Sentiment Analysis
 
 Analisis sentimen tweet dari twitter yang mempunyai hashtag #RUUPKS atau sejenisnya. Langkah-langkah dalam analisis sentimen pada kode ini adalah:
 1. Data mining dari twitter menggunakan tweepy
